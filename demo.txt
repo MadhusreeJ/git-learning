@@ -1,2 +1,2 @@
 this is a github learning session
-press ctrl+s 
+press ctrl + s
